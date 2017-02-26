@@ -33,7 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CoreAudioApi">
-      <HintPath>..\..\..\..\Desktop\CoreAudioApi.dll</HintPath>
+      <HintPath>.\CoreAudioApi.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
